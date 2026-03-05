@@ -1,2 +1,2 @@
-# Market_buscket_analysis
-Code for realisation Market buscket analysis metod created with usage AI instruments (clode, gemeni) for zeppelin ukaine
+# Practice_code_
+Code for the realisation of a Market basket analysis method created for Zeppelin Ukraine
